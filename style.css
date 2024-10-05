@@ -1,3 +1,54 @@
 body {
   background-color:lightblue;
 }
+.topnav{
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: red;
+  color: rgb(183, 11, 11);
+}
+header {
+  text-align: right;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+ h1 {
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 100px;
+ }
+ img {
+  border: 4px;
+  border-color: black;
+  border-style: solid;
+  margin: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+ }
+ #quote {
+  font-size: 30px;
+  text-align: center;
+ }
+ #quoter {
+  font-size: 20px;
+  text-align: center;
+ }
+ #truck{
+  position: relative;
+  left: 550px;
+ }
+ #mission{
+  text-align: center;
+ }
