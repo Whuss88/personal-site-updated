@@ -45,10 +45,35 @@ header {
   font-size: 20px;
   text-align: center;
  }
- #truck{
+ #truck {
   position: relative;
   left: 550px;
  }
- #mission{
+ #mission {
   text-align: center;
+ }
+ #racecar {
+  height: 300px;
+  width: auto;
+ }
+ #about-info {
+  margin: 10px 0;
+  padding: 2px;
+  padding-left: 5px;
+  border: 3px solid salmon;
+  text-indent: 10px;
+  height: 100px;
+  width: 500px;
+  font-size: 20px;
+  box-sizing: 100px 40px;
+ }
+ #driving {
+position: absolute;
+left: 900px;
+top: 400px;
+ }
+ #gaming {
+  position: relative;
+  left: 200px;
+
  }
