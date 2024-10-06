@@ -19,6 +19,10 @@ body {
   background-color: red;
   color: rgb(183, 11, 11);
 }
+.active {
+  border: 3px solid salmon;
+  
+}
 header {
   text-align: right;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
