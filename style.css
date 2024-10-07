@@ -1,13 +1,13 @@
 body {
   background-color:lightblue;
 }
-.topnav{
+nav{
   position: fixed;
   width: 100%;
   background-color: black;
   overflow: hidden;
 }
-.topnav a {
+nav a {
   float: left;
   display: block;
   color: white;
@@ -15,7 +15,7 @@ body {
   padding: 14px 20px;
   text-decoration: none;
 }
-.topnav a:hover {
+nav a:hover {
   background-color: red;
   color: rgb(183, 11, 11);
 }
